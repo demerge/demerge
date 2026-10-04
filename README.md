@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demerge
-- 👀 I’m interested in coding
-- 🌱 I’m a full stack web design
+- 👀 I’m interested in AI analytics
+- 🌱 I’m a Dev Ops Engineer and Digital marketer.
 - 💞️ I’m looking to collaborate on developing app and web project
 - 📫 t.me/demerge
 - google odemerge
